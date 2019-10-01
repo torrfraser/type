@@ -1,0 +1,64 @@
+/* Type */
+
+body {
+	background-color: lightyellow;
+	color: purple;
+	font-family: 'Big Shoulders Display', cursive;
+	line-height: 1;
+	text-shadow: 2px 2px #FF0000;
+	font-size: 50px;
+
+}
+.new-color {
+	color: pink;
+
+}
+.other-font {
+	font-family: serif;
+	font-weight: lighter;
+    text-align: left;
+    text-decoration: line-through;
+    
+
+}
+.lol1 {
+	color: blue;
+	text-shadow: 2px 2px black;
+	
+}
+.different {
+	position: absolute;
+	top: 30em;
+	transform: rotate(40deg);
+
+}
+.second {
+	text-overflow: grid-row;
+	filter: blur(0.005em);
+	position: absolute;
+	top: 15em;
+	left: 2em;
+	opacity: 10;
+	border: 5px solid yellow;
+
+}
+.other {
+	position: absolute;
+    bottom: : 7em;
+	transform: rotate(-40deg);
+}
+.last {
+	position: absolute;
+	transform: rotate(-180deg);
+ 	margin-top: 0px;
+  	margin-bottom: 0px;
+ 	margin-right: 0px;
+ 	margin-left: 1000px;
+  	opacity: 10%;
+}
+ .custom-1 {
+      width: 300px;
+      height: 300px;
+      background: yellow;
+      border-radius: 50%
+    }
